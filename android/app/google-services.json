@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "85754720460",
+    "project_id": "marian-ffd83",
+    "storage_bucket": "marian-ffd83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85754720460:android:5adf6f7e514f07a3089269",
+        "android_client_info": {
+          "package_name": "com.example.marian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85754720460-28jmc4rfpa4s8as6vfsm9ahpb5lg6fpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGuek7f9dzsrnQN1gySP2UeIQiUkdQkWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85754720460-28jmc4rfpa4s8as6vfsm9ahpb5lg6fpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
